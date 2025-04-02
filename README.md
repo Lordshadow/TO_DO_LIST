@@ -1,4 +1,4 @@
-Mecha Task Manager
+#Mecha Task Manager
 Welcome to my repository! This is a Mecha-Themed Task Manager, a simple yet visually appealing to-do list application with a futuristic aesthetic. I had a great time designing and developing it, incorporating elements that match the blue and purple mecha theme.
 
 Technologies Used:
